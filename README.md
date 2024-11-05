@@ -1,4 +1,5 @@
 ![Jolokia - JMX on Capsaicin][1]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fjolokia.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fjolokia?ref=badge_shield)
 
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jolokia/jolokia-parent/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/org.jolokia/jolokia-parent/)
 [![Build Status](https://github.com/jolokia/jolokia/actions/workflows/ci.yaml/badge.svg?branch=2.0)](https://github.com/jolokia/jolokia/actions/workflows/ci.yaml)
@@ -153,3 +154,6 @@ if you forgot it the first time.
  [8]: https://github.com/jolokia/jolokia/discussions
  [9]: https://www.jolokia.org
  [10]: https://www.jolokia.org/reference/html/index.html
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fjolokia.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fsunilchadha1973%2Fjolokia?ref=badge_large)
